@@ -1,4 +1,4 @@
-there is a front part of the 
+there is a front part of the portfolio
 # Deepanshu Kumar - Portfolio Website
 
 This repository contains the source code for my personal portfolio website. The site showcases my skills, projects, and contact information.
